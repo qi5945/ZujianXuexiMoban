@@ -27,6 +27,10 @@ public class HomeActivity extends BaseActivity implements OnClickListener {
     private MineFragment mMineFragment;
     private Fragment mCurrent;
 
+
+
+    
+
     private RelativeLayout mHomeLayout;
     private RelativeLayout mPondLayout;
     private RelativeLayout mMessageLayout;
